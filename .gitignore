@@ -1,0 +1,8 @@
+vendor/
+logs/
+.idea/
+public/assets/
+public/libs/
+*.xlsx
+database/*.sql
+config/conf.yaml

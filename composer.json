@@ -1,0 +1,24 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "*",
+        "phpmailer/phpmailer": "*",
+        "mikehaertl/php-pdftk" : "*",
+        "setasign/fpdf":"^1.8",
+        "robmorgan/phinx": "*",
+        "symfony/yaml": "*",
+        "catfan/medoo": "*",
+        "predis/predis": "*",
+        "guzzlehttp/guzzle": "*", 
+        "guzzlehttp/psr7": "*"
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "controllers/"
+        }
+    }
+}
+ 
